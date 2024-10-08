@@ -6,7 +6,7 @@ RemoveHTTP é uma ferramenta simples em Go que remove os prefixos http:// e http
 Você pode instalar esta ferramenta diretamente usando o comando go install:
 
 ```bash
-go install github.com/lupedsagaces/removehttp@latest
+go install github.com/golaboffsec/removehttp@latest
 ```
 Isso irá baixar e instalar o binário da ferramenta no seu $GOPATH/bin.
 
